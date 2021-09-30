@@ -1,0 +1,22 @@
+* {
+  padding: 0px;
+
+  box-sizing: border-box;
+}
+
+.container {
+  border: 0.5px solid black;
+  padding: 6px;
+  margin-top: 8px;
+  border-radius: 6px;
+  background-color: rgb(214, 212, 209);
+}
+
+.container_2 {
+  display: flex;
+}
+.title {
+  height: 200px;
+  width: 300px;
+  border: 2px solid black;
+}
